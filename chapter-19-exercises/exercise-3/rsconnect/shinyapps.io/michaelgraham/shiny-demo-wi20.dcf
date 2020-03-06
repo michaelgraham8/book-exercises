@@ -1,0 +1,12 @@
+name: shiny-demo-wi20
+title: shiny-demo-wi20
+username:
+account: michaelgraham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1898034
+bundleId: 2848599
+url: https://michaelgraham.shinyapps.io/shiny-demo-wi20/
+when: 1583276302.99585
+asMultiple: FALSE
+asStatic: FALSE
